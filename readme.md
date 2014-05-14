@@ -36,24 +36,6 @@ You simply need to push additionnal commits on the appropriate branch of your Gi
 3. Replace your master branch by the upstream master branch. `git reset --hard upstream/master`
 4. Replace your master branch on GitHub. `git push origin master -f`
 
-### Redirections
-
-Redirections can be defined in ```_config.yml```.
-
-```
-  /news: /en/version-history
-```
-
-### Aliases for contributors
-
-Aliases for contributors are defined in ```_config.yml```.
-
-```
-aliases:
-  s_nakamoto: Satoshi Nakamoto
-  --author=Satoshi Nakamoto: Satoshi Nakamoto
-```
-
 ### Including RPC data.
 
 You must have a copy of the CannaCoind server running on your localhost in order for the data pulled into your website.  
