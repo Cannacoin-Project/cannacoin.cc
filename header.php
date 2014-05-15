@@ -22,7 +22,7 @@
     <?php
 		// Swisscex.com market data
 		setlocale(LC_MONETARY, 'en_US');
-		$supply = file_get_contents('http://cannacoin.cc/currentsupply.php');
+		$supply = file_get_contents('http://cannacoin.cc:2750/chain/Cannacoin/q/totalbc');
 		$blockchain = file_get_contents('https://blockchain.info/ticker');
 		$json_blockchain = json_decode($blockchain);
 		$btcprice = $json_blockchain->USD->last;
