@@ -26,7 +26,7 @@
 		$blockchain = file_get_contents('https://blockchain.info/ticker');
 		$json_blockchain = json_decode($blockchain);
 		$btcprice = $json_blockchain->USD->last;
-		$json_string = file_get_contents('rn');
+		$json_string = file_get_contents('ENTERSWISSCEXAPIHERE');
 		$json_decode = json_decode($json_string);
 		$ask = sprintf('%.8f', $json_decode->quote->askPrice);
 		$bid = sprintf('%.8f', $json_decode->quote->bidPrice);
