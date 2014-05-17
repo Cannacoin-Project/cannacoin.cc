@@ -44,3 +44,6 @@ Start by getting a copy of Cannacoin here [Cannacoin Download](https://github.co
 After you have a copy of Cannacoin running, edit the config file located in /network/connect.php with your RPC user/password.
 You are now able to use jsonRPC commands to request data directly from Cannacoind. (see index.php for example).
 
+### Including Swisscex Market data.
+Update Line 29 of header.php to include swisscex API Key/URL
+
