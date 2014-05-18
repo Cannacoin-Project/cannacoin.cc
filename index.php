@@ -16,7 +16,7 @@
           <div class='container'>
             <div class='carousel-caption'>
               <div align='center'>
-		<h2>VOTE TO ADD CANNCOIN TO MINTLPAL.COM EXCHANGE!</h2><a class='btn btn-sm btn-success' href='http://mintpal.com/voting' target="_new">VOTE TODAY!</a>
+		<h2>VOTE TO ADD CANNACOIN TO MINTPAL.COM EXCHANGE!</h2><a class='btn btn-sm btn-success' href='http://mintpal.com/voting' target="_new">VOTE TODAY!</a>
 		<br><br>
 		<a class='btn btn-sm btn-default' href='http://swisscex.com/market/CCN_BTC'>
 		<?php
