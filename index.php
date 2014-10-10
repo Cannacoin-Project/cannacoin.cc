@@ -70,6 +70,7 @@
           <img class='img-circle' src='images/cannacoin-coin.png'>
           <h2>Details</h2>
           <p><div align='left'></div>
+          <b>Launched:</b> March 28, 2014<br>
 	  <b>Algorithm:</b> Scrypt<br>
 	  <b>Block Time:</b> 1 minutes<br>
 	  <b>Block Reward:</b> 12.5 Cannacoins<br>
